@@ -7,7 +7,10 @@
  * Version: 0.1
  *
  * Based on the document FIPS PUB 46-3
+ *
+ * Codigo dele porem foi modificado por mim
  */
+  
 #include <math.h>
 #include <stdint.h>
 #include <stdio.h>
